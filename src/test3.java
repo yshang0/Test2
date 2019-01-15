@@ -4,7 +4,7 @@ public class test3 {
         huiasdlkh
     }
     public void method 2 (String 2) {
-        sjhkjahslkjhfalkg
+        this is branch test
     }
 
 
